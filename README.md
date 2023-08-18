@@ -26,18 +26,15 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou e configurou o Terraform `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `#`.
+* Você possui uma conta  `AWS`
+* Você instalou e configurou o AWS CLI 
+* Você instalou e configurou o Terraform em seu PC `<linguagem / dependência / requeridos>`
+* leia o artigo  `#`.
 
 ## 🚀 Instalando <nome_do_projeto>
 
 Para instalar o <cluster-kubernetes-terraform-aws>, siga estas etapas:
 
-Linux e macOS:
-```
-<comando_de_instalação>
-```
 
 Windows:
 ```
