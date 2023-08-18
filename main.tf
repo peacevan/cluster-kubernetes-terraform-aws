@@ -1,11 +1,11 @@
 terraform {
-    required_version = ">=0.13.1"
+    required_version = ">=1.5.4"
     required_providers {
-      aws = ">=3.54.0"
-      local = ">=2.1.0"
+     aws = ">= 5.11.0"
+     local= ">=2.4.0"
     }
     backend "s3" {
-      bucket = "myfcbucket"
+      bucket = "mybucket-peacevan"
       key    = "terraform.tfstate"
       region = "us-east-1"
     }
