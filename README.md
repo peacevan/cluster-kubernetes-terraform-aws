@@ -9,7 +9,7 @@ Cluter kuberneter  with terraform and aws
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="img/diagrama.png" alt="exemplo imagem">
 
 >Provisionando um Cluster Kubernetes utilizando o Terraform e AWS.
 
@@ -19,9 +19,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Instalando o Terraform 
 - [x] Configurando o Terraform 
-- [x] configurando o AWS CLI
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] instalado e configurando o AWS CLI
+
 
 ## 💻 Pré-requisitos
 
@@ -33,7 +32,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando <nome_do_projeto>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o <cluster-kubernetes-terraform-aws>, siga estas etapas:
 
 Linux e macOS:
 ```
@@ -47,7 +46,7 @@ Windows:
 
 ## ☕ Usando <nome_do_projeto>
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar <cluster-kubernetes-terraform-aws>, siga estas etapas:
 
 ```
 <exemplo_de_uso>
